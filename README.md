@@ -42,6 +42,10 @@ GIF created with NVIDIA shadowplay and uploaded in imgur.
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+
+https://github.com/idavoong/brewery/assets/60492208/6b2f489e-13c5-476e-a663-cbe9689055e5
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
